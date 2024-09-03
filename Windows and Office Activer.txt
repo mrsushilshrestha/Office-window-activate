@@ -1,0 +1,3 @@
+-------Windows and Office Life-time Activer--------
+
+irm https://get.activated.win|iex
